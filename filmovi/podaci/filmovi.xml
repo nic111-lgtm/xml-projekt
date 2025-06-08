@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+    <korisnik>
+        <ime>The Shawshank Redemption</ime>
+        <pozicija>1</pozicija>
+        <godina>1994</godina>
+        <trajanje>2h 22m</trajanje>
+        <autor>Frank Darabont</autor>
+    </korisnik>
+    <korisnik>
+        <ime>The Godfather</ime>
+        <pozicija>2</pozicija>
+        <godina>1972</godina>
+        <trajanje>2h 55m</trajanje>
+        <autor>Francis Ford Copolla</autor>
+    </korisnik>
+    <korisnik>
+        <ime>The Dark Knight</ime>
+        <pozicija>3</pozicija>
+        <godina>2008</godina>
+        <trajanje>2h 32m</trajanje>
+        <autor>Christopher Nolan</autor>
+    </korisnik>
+    <korisnik>
+        <ime>Pulp Fiction</ime>
+        <pozicija>4</pozicija>
+        <godina>1994</godina>
+        <trajanje>2h 34m</trajanje>
+        <autor>Quentin Tarantino</autor>
+    </korisnik>
+</korisnici>

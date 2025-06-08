@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nekretnine>
+    <nekretnina>
+        <ime>Frank Darabont</ime>
+        <brojf>5</brojf>
+        <godine>66</godine>
+        <brojo>1</brojo>
+    </nekretnina>
+    <nekretnina>
+        <ime>Francis Ford Copolla</ime>
+        <brojf>16</brojf>
+        <godine>64</godine>
+        <brojo>2</brojo>
+
+    </nekretnina>
+    <nekretnina>
+        <ime>Christopher Nolan</ime>
+        <brojf>12</brojf>
+        <godine>54</godine>
+        <brojo>2</brojo>
+ 
+    </nekretnina>
+    <nekretnina>
+        <ime>Quentin Tarantino</ime>
+        <brojf>10</brojf>
+        <godine>62</godine>
+        <brojo>2</brojo>
+     
+    </nekretnina>
+</nekretnine>
